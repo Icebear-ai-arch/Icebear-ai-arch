@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | BS Information Technology Graduate | Mobile & Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Icebear-ai-arch">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">

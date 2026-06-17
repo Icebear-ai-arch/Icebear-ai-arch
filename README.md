@@ -62,8 +62,8 @@
 
 - 📧 Email: carabuenajustfer@gmail.com
 - 📱 Phone: 0998-349-9383
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- 🐱 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: https://ttps://www.linkedin.com/in/justfer-carabuena-068381341/
+- 🐱 GitHub: https://github.com/icebear-ai-arch
 
 ---
 

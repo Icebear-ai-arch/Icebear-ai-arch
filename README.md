@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Justfer Carabuena</h1>
+<h3 align="center">Aspiring Software Developer | BS Information Technology Graduate | Mobile & Web Developer</h3>
 
-<!--
-**Icebear-ai-arch/Icebear-ai-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 BS Information Technology Graduate
+- 💻 Interested in Software Development, Mobile Development, and Web Development
+- 🌱 Currently improving my skills in PHP, Java, C#, Unity, and Android Development
+- 🚀 Passionate about building systems that solve real-world problems
+- 👥 Experienced in leading academic software development projects
+
+---
+
+## 🛠️ Projects
+
+### 🏛️ Barangay Panducot Adjudication Management Information System
+- Capstone Project
+- Developed a web-based system for complaint, hearing, and case management
+- Implemented resident records, notifications, reports, and case tracking
+- Served as the Team Leader
+
+### 🚀 Space Explorer (Unity Game)
+- Developed using Unity and C#
+- Features item collection, level progression, and timed objectives
+- Served as Team Leader during development
+
+### 🖥️ Core Gear Tech E-Commerce Website
+- Online computer parts store
+- Product catalog, shopping cart, user management, and messaging system
+- Developed using PHP, MySQL, HTML, CSS, and JavaScript
+
+---
+
+## 💻 Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,java,cs,unity,androidstudio,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icebear-ai-arch&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Icebear-ai-arch&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: carabuenajustfer@gmail.com
+- 📱 Phone: 0998-349-9383
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
+- 🐱 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## ⚡ Fun Fact
+
+I have been the team leader for most of my software development projects and enjoy transforming ideas into functional applications that solve real-world problems.

@@ -24,18 +24,18 @@
 
 ## 🛠️ Projects
 
-### 🏛️ Barangay Panducot Adjudication Management Information System
+### [🏛️ Barangay Panducot Adjudication Management Information System](https://github.com/Icebear-ai-arch/BPAMIS-project)
 - Capstone Project
 - Developed a web-based system for complaint, hearing, and case management
 - Implemented resident records, notifications, reports, and case tracking
 - Served as the Team Leader
 
-### 🚀 Space Explorer (Unity Game)
+### [🚀 Space Explorer (Unity Game)](https://github.com/Icebear-ai-arch/SpaceExplorer)
 - Developed using Unity and C#
 - Features item collection, level progression, and timed objectives
 - Served as Team Leader during development
 
-### 🖥️ Core Gear Tech E-Commerce Website
+### [🖥️ Core Gear Tech E-Commerce Website](https://github.com/Icebear-ai-arch/CoreGearTech)
 - Online computer parts store
 - Product catalog, shopping cart, user management, and messaging system
 - Developed using PHP, MySQL, HTML, CSS, and JavaScript

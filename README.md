@@ -40,6 +40,20 @@
 - Product catalog, shopping cart, user management, and messaging system
 - Developed using PHP, MySQL, HTML, CSS, and JavaScript
 
+### [🎮 BuildMeUp: Educational Learning Game](https://github.com/Icebear-ai-arch/BuildeMeUp)
+- Developed an educational game focused on interactive learning and student engagement
+- Features quizzes, challenges, and gameplay mechanics that promote knowledge retention
+- Designed and implemented game logic, user interface, and progression systems
+- Developed using Java and MySQL
+- Applied Object-Oriented Programming (OOP) principles for system design
+
+  ### [🚢 TITAN Cruise Booking System](https://github.com/Icebear-ai-arch/TITANcruise)
+- Developed a web-based cruise reservation and management platform
+- Features user registration, cruise package browsing, online booking, and reservation tracking
+- Includes administrative modules for customer management, booking monitoring, and schedule management
+- Developed using Java
+
+  
 ---
 
 ## 💻 Languages and Tools

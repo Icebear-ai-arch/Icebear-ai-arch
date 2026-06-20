@@ -47,7 +47,7 @@
 - Developed using Java and MySQL
 - Applied Object-Oriented Programming (OOP) principles for system design
 
-### [🚢 TITAN Cruise Booking System](https://github.com/Icebear-ai-arch/TITANcruise)
+### [🚢 TITAN Cruise: Booking System](https://github.com/Icebear-ai-arch/TITANcruise)
 - Developed a web-based cruise reservation and management platform
 - Features user registration, cruise package browsing, online booking, and reservation tracking
 - Includes administrative modules for customer management, booking monitoring, and schedule management
